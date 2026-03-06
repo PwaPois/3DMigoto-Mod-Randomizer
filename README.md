@@ -1,6 +1,6 @@
-# Hoyoverse Mod Randomizer
+# 3DMigoto Mod Randomizer
 
-This is a lightweight tool that allows you to randomize your active mods in **Genshin Impact**, **Zenless Zone Zero**, and **Honkai: Star Rail**.
+This is a lightweight tool that allows you to randomize your active mods in **Genshin Impact**, **Zenless Zone Zero**, **Honkai: Star Rail** and any other game using 3DMigoto-based mod loaders.
 The tool is made to work with 3DMigoto-based mod-loaders and will not work with another kind of loader (I am not aware of any other though).
 This is tested on both **GI** and **ZZZ**, but it should also work on **HSR**.
 
